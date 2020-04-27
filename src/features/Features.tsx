@@ -20,7 +20,7 @@ export const Features = () => {
             <div className="column">
                 <h4>Manage Data Collection</h4>
                 <img src={require("../assets/features/experiment_overview.jpg")} />
-                <p>Monitor the progress of study participant's data collection during the study period. Participants' reporting data and interaction timestamps are uploaded to the server in realtime.</p>
+                <p>Monitor the progress of the study participant's data collection during the study period. Participants' reporting data and interaction timestamps are uploaded to the server in realtime.</p>
             </div>
         </div>
         <hr />
@@ -32,7 +32,7 @@ export const Features = () => {
             </div>
         </div>
 
-        <p>O4R's tracker design space is based on the <a href="https://omnitrack.github.io/" target="_blank">OmniTrack</a> technology and its <i>semi-automated tracking</i> approach. Using <i>sensor services</i> and the <i>automated triggers</i>, you can design trackers with various level of automation. O4R is able to implement the following typical self-reporting studies but not limited to them:</p>
+        <p>O4R's tracker design space is based on <a href="https://omnitrack.github.io/" target="_blank">OmniTrack</a> technology and its <i>semi-automated tracking</i> approach. Using <i>sensor services</i> and <i>automated triggers</i>, you can design trackers with various levels of automation. You can implement the following typical self-reporting studies but not limited to them:</p>
 
         <div className="paragraph multi-column">
             <div className="column">
@@ -46,7 +46,7 @@ export const Features = () => {
                 <h4>Experience Sampling</h4>
 
                 <p>
-                    Send notifications at random moments or periodically to gather ecologically valid experience samples. In the researcher dashboard, you can personalized the EMA pings to reflect each participant's lifestyle.
+                    Send notifications at random moments or periodically to gather ecologically valid experience samples. In the researcher dashboard, you can personalize the EMA pings to reflect each participant's lifestyle.
                 </p>
             </div>
 
