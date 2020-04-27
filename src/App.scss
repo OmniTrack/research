@@ -1,0 +1,27 @@
+@import './common.scss';
+
+.App {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+
+  &>div#content {
+
+    overflow-y: scroll;
+
+    &>#footer {
+      margin-top: 40px;
+      padding-top: 12px;
+      padding-bottom: 12px;
+      background: #444444;
+
+      #footer_content {
+        text-align: center;
+        color: white;
+        font-size: 10pt;
+      }
+    }
+  }
+
+
+}

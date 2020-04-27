@@ -1,0 +1,55 @@
+@import './common.scss';
+
+header {
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid #e8e8e8;
+    background: rgba(255,255,255,0.85);
+    height: $header-height;
+    box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.15);
+
+    img#logo {
+        width: 12rem;
+        margin: auto 0.75rem;
+    }
+
+    .gnb-link {
+
+        text-decoration: none;
+        font-weight: bold;
+        color: #575757;
+        margin-right: 1.5rem;
+
+        &:hover {
+            color: #1cb6b7;
+        }
+    }
+
+    .github {
+        text-decoration: none;
+        align-self: stretch;
+        display: flex;
+        padding: 0 1rem;
+
+        &:hover {
+            background: #fafafa;
+        }
+
+        &>div {
+            align-self: stretch;
+            display: flex;
+            align-items: center;
+
+            img {
+                width: 1.5rem;
+            }
+
+            span {
+                font-size: 0.85rem;
+                margin-left: 0.25rem;
+                font-weight: 500;
+                color: #575757;
+            }
+        }
+    }
+}
