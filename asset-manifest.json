@@ -1,23 +1,28 @@
 {
   "files": {
-    "main.css": "/research/static/css/main.d1b05096.chunk.css",
-    "main.js": "/research/static/js/main.67f0ced8.chunk.js",
-    "main.js.map": "/research/static/js/main.67f0ced8.chunk.js.map",
+    "main.css": "/research/static/css/main.dd86fef8.chunk.css",
+    "main.js": "/research/static/js/main.d48ff21d.chunk.js",
+    "main.js.map": "/research/static/js/main.d48ff21d.chunk.js.map",
     "runtime-main.js": "/research/static/js/runtime-main.36e5f3ad.js",
     "runtime-main.js.map": "/research/static/js/runtime-main.36e5f3ad.js.map",
-    "static/js/2.3bf77827.chunk.js": "/research/static/js/2.3bf77827.chunk.js",
-    "static/js/2.3bf77827.chunk.js.map": "/research/static/js/2.3bf77827.chunk.js.map",
+    "static/js/2.2b5a1071.chunk.js": "/research/static/js/2.2b5a1071.chunk.js",
+    "static/js/2.2b5a1071.chunk.js.map": "/research/static/js/2.2b5a1071.chunk.js.map",
     "index.html": "/research/index.html",
-    "precache-manifest.91b586ec2375ae2cac3a2694a3f2068e.js": "/research/precache-manifest.91b586ec2375ae2cac3a2694a3f2068e.js",
+    "precache-manifest.f41810c205412f3d09cb86b0601b653d.js": "/research/precache-manifest.f41810c205412f3d09cb86b0601b653d.js",
     "service-worker.js": "/research/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/research/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.3bf77827.chunk.js.LICENSE.txt": "/research/static/js/2.3bf77827.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/research/static/media/logo.5d5d9eef.svg"
+    "static/css/main.dd86fef8.chunk.css.map": "/research/static/css/main.dd86fef8.chunk.css.map",
+    "static/js/2.2b5a1071.chunk.js.LICENSE.txt": "/research/static/js/2.2b5a1071.chunk.js.LICENSE.txt",
+    "static/media/author_bongshin.png": "/research/static/media/author_bongshin.d29b39dc.png",
+    "static/media/choe_portrait.png": "/research/static/media/choe_portrait.8530d3d4.png",
+    "static/media/github.svg": "/research/static/media/github.ad26b199.svg",
+    "static/media/jseo_portrait.jpg": "/research/static/media/jseo_portrait.6543c1d1.jpg",
+    "static/media/omnitrack_for_research_logo.svg": "/research/static/media/omnitrack_for_research_logo.3e1b6952.svg",
+    "static/media/yhkim_portrait.jpg": "/research/static/media/yhkim_portrait.cb5d642b.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.36e5f3ad.js",
-    "static/js/2.3bf77827.chunk.js",
-    "static/css/main.d1b05096.chunk.css",
-    "static/js/main.67f0ced8.chunk.js"
+    "static/js/2.2b5a1071.chunk.js",
+    "static/css/main.dd86fef8.chunk.css",
+    "static/js/main.d48ff21d.chunk.js"
   ]
 }
