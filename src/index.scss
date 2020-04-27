@@ -97,6 +97,19 @@ p, .paragraph{
   img{
     max-width: 100%;
   }
+
+  &.multi-column{
+    display: flex;
+
+    .column{
+      flex: 1;
+      margin-right: 3rem;
+
+      &:last-child{
+        margin-right: 0;
+      }
+    }
+  }
 }
 
 

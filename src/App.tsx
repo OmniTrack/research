@@ -7,6 +7,8 @@ import { Header } from './Header';
 import { Team } from './team/Team';
 import { Publication } from './publication/Publication';
 import { GettingStarted } from './getting-started/GettingStarted';
+import { Teaser } from './teaser/Teaser';
+import { Features } from './features/Features';
 
 function App() {
   return (
@@ -14,6 +16,8 @@ function App() {
       <div className="App">
         <Header />
         <div id="content">
+          <Teaser/>
+          <Features/>
           <GettingStarted/>
           <Publication />
           <Team />

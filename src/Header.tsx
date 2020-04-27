@@ -10,23 +10,24 @@ const navProps = {
     activeClassName: "selected"
 }
 
-export const Header = (props: {}) => {
+export const Header = () => {
     return <header>
-        <img id="logo" src={logo} />
+        <div className="container">
+            <img id="logo" src={logo} />
 
-        <div className="flex-fill" />
-        <Link {...navProps} to="features">Features</Link>
-        <Link {...navProps} to="getting-started">Getting Started</Link>
-        <Link {...navProps}  to="publication">Publication</Link>
-        <Link {...navProps}  to="team">Team</Link>
+            <div className="flex-fill" />
+            <Link {...navProps} to="features">Features</Link>
+            <Link {...navProps} to="getting-started">Getting Started</Link>
+            <Link {...navProps} to="publication">Publication</Link>
+            <Link {...navProps} to="team">Team</Link>
 
 
-        <a className="github" href="https://github.com/OmniTrack/omnitrack_for_research" target="_blank">
-            <div>
-                <img src={require('./assets/github.svg')}/>
-                <span>Github</span>
-            </div>
-        </a>
-
+            <a className="github" href="https://github.com/OmniTrack/omnitrack_for_research" target="_blank">
+                <div>
+                    <img src={require('./assets/github.svg')} />
+                    <span>Github</span>
+                </div>
+            </a>
+        </div>
     </header>
 }
