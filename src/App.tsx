@@ -10,7 +10,7 @@ import { GettingStarted } from './getting-started/GettingStarted';
 
 function App() {
   return (
-    <Router>
+    <Router basename="/" hashType="noslash">
       <div className="App">
         <Header />
         <div id="content">

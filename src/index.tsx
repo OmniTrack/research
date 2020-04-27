@@ -4,6 +4,11 @@ import './index.scss';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 
+import smoothscroll from 'smoothscroll-polyfill';
+
+// kick off the polyfill!
+smoothscroll.polyfill();
+
 ReactDOM.render(
   <React.StrictMode>
     <App />

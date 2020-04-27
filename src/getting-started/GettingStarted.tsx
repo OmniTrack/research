@@ -2,7 +2,7 @@ import React from 'react';
 import { Section } from '../Section';
 
 export const GettingStarted = () => {
-    return <Section title="Getting Started">
+    return <Section title="Getting Started" hashId="getting-started">
 
         <h4>Installation</h4>
         <p>OmniTrack for Research is free and open-source platform. Due to the ethical reasons, we allowed researchers to set up their own platform instance on the storage they want (e.g., cloud server or a machine in the lab). By following our installation guide, a researcher without technical proficiency can setup and build their first experiment app within 2 hours.</p>
@@ -27,7 +27,7 @@ export const GettingStarted = () => {
         <h5>Participant App</h5>
         <ul>
             <li>Minimum OS level: <b>Android Kitkat</b> (API 19). <span className="warning"><b>iOS</b> is NOT supported for now.</span></li>
-            <li>The device must support Google Play Service (Google is not supported in several regions including <strong>China</strong>)</li>
+            <li>The device must support Google Play Service (Google is not supported in several regions including <span className="warning">China</span>)</li>
         </ul>
 
 

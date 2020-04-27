@@ -42,7 +42,7 @@ const yhkim = {
 const team = [yhkim, blee, jseo, echoe]
 
 export const Team = () => {
-    return <Section title="The OmniTrack Team">
+    return <Section title="The OmniTrack Team" hashId="team">
         <div className="members">
             {
                 team.map(member => {

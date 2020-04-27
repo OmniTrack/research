@@ -27,7 +27,7 @@ const papers = [
 ]
 
 export const Publication = () => {
-    return <Section title="Publication">
+    return <Section title="Publication" hashId="publication">
         <h3 className="margin-bottom-1rem">Published Studies Conducted Using OmniTrack for Research</h3>
         {
             papers.map(p => {
