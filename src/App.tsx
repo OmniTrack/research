@@ -9,6 +9,7 @@ import { Publication } from './publication/Publication';
 import { GettingStarted } from './getting-started/GettingStarted';
 import { Teaser } from './teaser/Teaser';
 import { Features } from './features/Features';
+import { Section } from './Section';
 
 function App() {
   return (
@@ -21,6 +22,12 @@ function App() {
           <GettingStarted/>
           <Publication />
           <Team />
+          <Section title="Acknowledgment" hashId="acknowledgment">
+            <p>
+                This work was in part supported by <a href="https://nsf.gov/awardsearch/showAward?AWD_ID=1753452" target="_blank">National Science Foundation award #1753452</a> (CAREER: Advancing Personal Informatics through Semi-Automated and Collaborative Tracking).
+            </p>
+        </Section>
+
 
           <div id="footer">
             <div id="footer_content">
