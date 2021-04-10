@@ -5,6 +5,12 @@ import './Publication.scss';
 
 const papers = [
     {
+        authors: "Yuhan Luo, Young-Ho Kim, Bongshin Lee, Naeemul Hassan, Eun Kyoung Choe",
+        title: "FoodScrap: Promoting Rich Data Capture and Reflective Food Journaling Through Speech Input",
+        description: "ACM DIS 2021. To appear.",
+    },
+    
+    {
         authors: "Eunkyung Jo, Austin L. Toombs, Colin M. Gray, and Hwajung Hong",
         title: "Understanding Parenting Stress through Co-designed Self-Trackers",
         description: "ACM CHI 2020. Pages 1–13.",
@@ -22,8 +28,7 @@ const papers = [
         title: "Toward Becoming a Better Self: Understanding Self-Tracking Experiences of Adolescents with Autism Spectrum Disorder Using Custom Trackers",
         description: "EAI PervasiveHealth 2019. Pages 169–178.",
         doi: "https://doi.org/10.1145/3329189.3329209"
-    }
-
+    }    
 ]
 
 export const Publication = () => {
