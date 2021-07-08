@@ -21,7 +21,7 @@ export const GettingStarted = () => {
         <h5>Researcher Dashboard (Server)</h5>
         <ul>
             <li>Node.JS</li>
-            <li>RAM >= 1Gb</li>
+            <li>RAM {'>'}= 1Gb</li>
         </ul>
 
         <h5>Participant App</h5>

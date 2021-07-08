@@ -1,0 +1,26 @@
+.w-prismjs{
+    font-size: 12pt !important;
+    font-family: 'Courier New', Courier, monospace !important;
+    margin-bottom: 3rem;
+
+    &:last-child{
+        margin-bottom: 0;
+    }
+}
+
+.language-bibtex{
+    span.property{
+        font-weight: bold;
+    }
+
+    span.string, span.constant{
+        color: #252525;
+    }
+}
+
+div.cite{
+    font-family: 'Courier New', Courier, monospace !important;
+    margin-bottom: 1.5rem;
+    color: 575757;
+    font-weight: bold;
+}

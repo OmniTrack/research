@@ -7,7 +7,8 @@ const papers = [
     {
         authors: "Yuhan Luo, Young-Ho Kim, Bongshin Lee, Naeemul Hassan, Eun Kyoung Choe",
         title: "FoodScrap: Promoting Rich Data Capture and Reflective Food Journaling Through Speech Input",
-        description: "ACM DIS 2021. To appear.",
+        description: "ACM DIS 2021. Pages 606-618.",
+        doi: "https://dl.acm.org/doi/10.1145/3461778.3462074"
     },
     
     {
