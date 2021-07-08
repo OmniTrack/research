@@ -1,17 +1,19 @@
 {
   "files": {
-    "main.css": "/research/static/css/main.4cfd53e4.chunk.css",
-    "main.js": "/research/static/js/main.e883767c.chunk.js",
-    "main.js.map": "/research/static/js/main.e883767c.chunk.js.map",
+    "main.css": "/research/static/css/main.505a1890.chunk.css",
+    "main.js": "/research/static/js/main.2ff095e4.chunk.js",
+    "main.js.map": "/research/static/js/main.2ff095e4.chunk.js.map",
     "runtime-main.js": "/research/static/js/runtime-main.36e5f3ad.js",
     "runtime-main.js.map": "/research/static/js/runtime-main.36e5f3ad.js.map",
-    "static/js/2.2b5a1071.chunk.js": "/research/static/js/2.2b5a1071.chunk.js",
-    "static/js/2.2b5a1071.chunk.js.map": "/research/static/js/2.2b5a1071.chunk.js.map",
+    "static/css/2.9d9b1fdc.chunk.css": "/research/static/css/2.9d9b1fdc.chunk.css",
+    "static/js/2.f5eb8555.chunk.js": "/research/static/js/2.f5eb8555.chunk.js",
+    "static/js/2.f5eb8555.chunk.js.map": "/research/static/js/2.f5eb8555.chunk.js.map",
     "index.html": "/research/index.html",
-    "precache-manifest.21a807a90ecbb4c940ac8e7ac39a9930.js": "/research/precache-manifest.21a807a90ecbb4c940ac8e7ac39a9930.js",
+    "precache-manifest.21ce80ee1b565eeacf8a24be5f3f3acf.js": "/research/precache-manifest.21ce80ee1b565eeacf8a24be5f3f3acf.js",
     "service-worker.js": "/research/service-worker.js",
-    "static/css/main.4cfd53e4.chunk.css.map": "/research/static/css/main.4cfd53e4.chunk.css.map",
-    "static/js/2.2b5a1071.chunk.js.LICENSE.txt": "/research/static/js/2.2b5a1071.chunk.js.LICENSE.txt",
+    "static/css/2.9d9b1fdc.chunk.css.map": "/research/static/css/2.9d9b1fdc.chunk.css.map",
+    "static/css/main.505a1890.chunk.css.map": "/research/static/css/main.505a1890.chunk.css.map",
+    "static/js/2.f5eb8555.chunk.js.LICENSE.txt": "/research/static/js/2.f5eb8555.chunk.js.LICENSE.txt",
     "static/media/author_bongshin.png": "/research/static/media/author_bongshin.d29b39dc.png",
     "static/media/choe_portrait.png": "/research/static/media/choe_portrait.8530d3d4.png",
     "static/media/experiment_overview.jpg": "/research/static/media/experiment_overview.221cc80f.jpg",
@@ -25,8 +27,9 @@
   },
   "entrypoints": [
     "static/js/runtime-main.36e5f3ad.js",
-    "static/js/2.2b5a1071.chunk.js",
-    "static/css/main.4cfd53e4.chunk.css",
-    "static/js/main.e883767c.chunk.js"
+    "static/css/2.9d9b1fdc.chunk.css",
+    "static/js/2.f5eb8555.chunk.js",
+    "static/css/main.505a1890.chunk.css",
+    "static/js/main.2ff095e4.chunk.js"
   ]
 }
