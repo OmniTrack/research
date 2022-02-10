@@ -13,7 +13,7 @@
     "@types/react-dom": "^16.9.6",
     "@uiw/react-prismjs": "^1.1.1",
     "bootstrap": "^4.4.1",
-    "node-sass": "^4.14.0",
+    "node-sass": "^7.0.0",
     "prismjs": "^1.24.1",
     "prismjs-bibtex": "^2.0.1",
     "react": "^16.13.1",
